@@ -94,15 +94,18 @@ Users can:
 ## 🚀 How to Run Locally
 
 1. Install dependencies:
+ ```
+pip install -r requirements.txt
+```
+   
+2. Add your Groq API key:
+ ```
+export GROQ_API_KEY=your_key
+```
 
-    pip install -r requirements.txt
-3. Add your Groq API key:
+3. Run notebook or script.
 
-    export GROQ_API_KEY=your_key
-
-4. Run notebook or script.
-
-5. Launch Gradio UI
+4. Launch Gradio UI
 
     A public link will be generated.
 
