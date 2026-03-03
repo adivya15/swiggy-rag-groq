@@ -1,0 +1,7 @@
+faiss-cpu
+sentence-transformers
+pypdf
+groq
+gradio
+numpy
+scikit-learn
